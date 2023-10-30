@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://img.freepik.com/vector-premium/patron-repeticion-pata-huella-gato-perro-costuras-fondo-azul_604817-259.jpg);
+}
+
+header {
+    background-color: #3977db;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    border: 100px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+h1{
+    color: #21059c
+}
+h2 {
+    color: rgb(4, 4, 184);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 400px;
+    margin-top: 4000px;
+}
+
+p{
+    font-size: 21px;
+}
+
+a{
+    border: 1000px coral;
+    margin: 200px;
+}
+Content{
+    border: 100px solid #ddd;
+    padding: 60000px;
+    margin: 400px; color: #21059c;
+}
